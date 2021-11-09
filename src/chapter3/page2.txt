@@ -1,0 +1,2 @@
+this is page 2 of chapter 3 page
+this is just for the purpose of practicing git and hub
